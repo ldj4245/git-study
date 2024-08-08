@@ -9,6 +9,10 @@ public class GitStudyApplication {
 
 	public static void main(String[] args) {
 		System.out.println("new line");
+		System.out.println("new line2");
+		System.out.println("another new line");
+		System.out.println("another new line2");
+		System.out.println("another new line3");
 		SpringApplication.run(GitStudyApplication.class, args);
 	}
 
